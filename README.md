@@ -1,4 +1,5 @@
 Email Intelligence Tool
+
 This project is a simple Python tool that analyzes email log files and identifies the most frequent email senders.
 Features
 Reads email log files in mbox-style format
