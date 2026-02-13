@@ -24,7 +24,7 @@ for line in fhand:
         continue
 
     pieces = line.split()
-    if len(pieces) < 2:
+    if len(pieces) < 1:
         continue
 
     email = pieces[1]
